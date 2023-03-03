@@ -15,3 +15,11 @@ How to run the code
 7. Download the OAuth Client in actions
 8. Rename the file to 'credentials.json' and place it in the project dir (Any name can be used, change the code accordingly)
 
+SAMPLE OUTPUT
+
+1. Initial screen
+![image](https://user-images.githubusercontent.com/29064604/222727402-c2d8f09d-656e-4451-a4db-51f689b890df.png)
+2. Option 1 for send an email
+![image](https://user-images.githubusercontent.com/29064604/222727619-90480147-248e-4db0-a916-023d8b6d67d2.png)
+3. Option 2 for search
+![image](https://user-images.githubusercontent.com/29064604/222727854-213deb46-78a0-4904-a66f-05c57a68f283.png)
