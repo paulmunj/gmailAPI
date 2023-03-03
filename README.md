@@ -1,5 +1,8 @@
 # gmailAPI
 Python code to Demo gmail APIs
+To install google client lib
+
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
 How to run the code
 1. Before execute the code, please maintain the 'credentials.json' file in the directory
